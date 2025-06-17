@@ -1,5 +1,5 @@
 # Complete IPL score predictor
-
+### [Deployment Link](https://complete-ipl-score-predictor-9vfmnofx2rr64mncubtxh8.streamlit.app/)
 ![1](https://github.com/user-attachments/assets/98df3dfa-43ed-4d3e-81be-04c5fd39e4cd)
 ![2](https://github.com/user-attachments/assets/4f9068ab-ea81-4160-a870-8e87fc05ae81)
 ![3](https://github.com/user-attachments/assets/c33a16b8-53a4-4196-ab25-89c329817807)
