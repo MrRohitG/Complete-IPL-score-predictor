@@ -1,5 +1,6 @@
 # Complete IPL score predictor
 ### [Deployment Link](https://complete-ipl-score-predictor-9vfmnofx2rr64mncubtxh8.streamlit.app/)
+### [Video OverView ](https://drive.google.com/file/d/1AIgYSSlGliyreteuEe_0I5dpRjB_Gnf9/view?usp=drive_link)
 ![1](https://github.com/user-attachments/assets/98df3dfa-43ed-4d3e-81be-04c5fd39e4cd)
 ![2](https://github.com/user-attachments/assets/4f9068ab-ea81-4160-a870-8e87fc05ae81)
 ![3](https://github.com/user-attachments/assets/c33a16b8-53a4-4196-ab25-89c329817807)
@@ -12,3 +13,5 @@
 ![image](https://github.com/user-attachments/assets/309d0b00-e1d7-43c1-906b-fc02d65b3fc3)
 
 [ipl_score_pred.pptx](https://github.com/user-attachments/files/20767666/ipl_score_pred.pptx)
+
+
